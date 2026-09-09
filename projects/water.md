@@ -17,7 +17,7 @@ permalink: /projects/water
      |      * ****  *   **    ****                                             |
 1100 +           ***** **        **                  **                        +
      |            ** * *          * **     *  **  * *** *                      |
-1080 +                **          ******* *********** ****                     +
+1080 +               ***          ******* *********** ****                     +
      |                               ******    ***       *        **           |
      |                                                   ****   ******* **     |
 1060 +                                                      *   *  *******     +
@@ -30,7 +30,7 @@ Elevation:
 - 1,039 feet
 - 144 feet above the minimum level
 - 190 feet below the maximum level
-- down 17 feet from a year ago
+- down 18 feet from a year ago
 - down 36 feet from ten years ago
 
 ## [Lake Powell](https://en.wikipedia.org/wiki/Lake_Powell)
@@ -43,8 +43,8 @@ Elevation:
      |                  **                                                     |
 3650 +            *  *  ***                                                    +
      |        ** *** **** ***               **                                 |
-     |        **** *** **   **        *  *  ***    **                          |
-     |  ** ** * **     **    **   *********** ***  *****                       |
+     |        **** *** **   **       **  *  ***    **                          |
+     |  ***** * **     **    **   *********** ***  *****                       |
 3600 +   ** ***               *** * ** ** **    ** * ***                       +
      |       *                 ****              ***   **       *  **          |
      |                           **              **     **      ******         |
@@ -56,8 +56,8 @@ Elevation:
                  2010             2015            2020             2025         </code></pre>
 </noscript>
 Elevation:
-- 3,518 feet
-- 148 feet above the minimum level
+- 3,517 feet
+- 147 feet above the minimum level
 - 191 feet below the maximum level
 - down 30 feet from a year ago
 - down 95 feet from ten years ago
