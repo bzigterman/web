@@ -12,7 +12,7 @@ permalink: /projects/water
 <p>Lake Powell Elevation</p>
 <pre><code style="font-family: monospace; font-size: 0.75em;">     +-------------+----------------+---------------+----------------+---------+
      |   **               **                                                   |
-1120 +  ****             *** **                                                +
+1120 +  ***              *** **                                                +
      |     **** **       * ****                                                |
      |      * ****  *   **    ****                                             |
 1100 +           ***** **        **                  **                        +
@@ -44,7 +44,7 @@ Elevation:
 3650 +            *  *  ***                                                    +
      |        ** *** **** ***               **                                 |
      |        **** *** **   **       **  *  ***    **                          |
-     |  ***** * **     **    **   *********** ***  *****                       |
+     |  ***** * **     **    **   *********** ***  ****                        |
 3600 +   ** ***               *** * ** ** **    ** * ***                       +
      |       *                 ****              ***   **       *  **          |
      |                           **              **     **      ******         |
@@ -59,7 +59,7 @@ Elevation:
 - 3,517 feet
 - 147 feet above the minimum level
 - 191 feet below the maximum level
-- down 30 feet from a year ago
+- down 29 feet from a year ago
 - down 95 feet from ten years ago
 
 <p class="updated_time">Source: <a href="https://www.usbr.gov/lc/region/g4000/riverops/hourly7.html#t0">U.S. Bureau of Reclamation</a>.</p> 
